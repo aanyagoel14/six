@@ -32,7 +32,7 @@ const fetchData = async()=>{
   }
 },[debounce])
 
-
+// console.log();
   return (
     <div className='d-flex flex-column justify-content-center align-items-center bg-warning'>
       <Search
